@@ -1,1 +1,1 @@
- where creativity meets structure, powering projects with energy and innovation.
+  powering projects with energy and innovation.
