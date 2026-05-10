@@ -1,1 +1,1 @@
-  powering projects with energy and innovation.
+   with energy and innovation.
