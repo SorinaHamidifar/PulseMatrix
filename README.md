@@ -12,7 +12,7 @@ Main entry point for NovaStructure.
 """
 
 from core.creativity import CreativeEngine
-from core.structure import StructureCore
+from core.structure import StructuCore
 from core.energy import EnergySystem
 
 
