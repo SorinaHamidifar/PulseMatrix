@@ -1,5 +1,5 @@
 # ==========================================
-# Project: NovaStructure Activated
+# Project: NovaStructure Activa
 # Description:
 # A dynamic environment where creativity meets structure,
 # powering projects with energy and innovation.
