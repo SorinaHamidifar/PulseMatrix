@@ -1,5 +1,5 @@
 # ==========================================
-# Project: NovaStructure where creativity 
+# Project: NovaStructure where cre
 # Description:
 # A dynamic environment where creativity meets structure,
 # powering projects with energy and innovation.
